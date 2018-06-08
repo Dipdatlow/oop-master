@@ -1,6 +1,6 @@
      # OOP master course first problem
 
-In this problem, i have made a not functional, but the design of a hospital employee management system.
+In this problem, i have made a not functional program, but the design of a hospital employee management system.
 
 
 	DEPENDENCIES
